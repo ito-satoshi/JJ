@@ -40,3 +40,6 @@ C:\Users\user02\Documents\新しいフォルダー\自動徘徊\自動徘徊\obj
 C:\Users\user02\Documents\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
 C:\Users\user02\Documents\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
 C:\Users\user02\Documents\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
