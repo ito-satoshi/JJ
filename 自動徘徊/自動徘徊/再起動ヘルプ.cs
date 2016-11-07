@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace 自動徘徊
 {
-    public partial class main : Form
+    public partial class 再起動ヘルプ : Form
     {
-        public main()
+        public 再起動ヘルプ()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>URLの追加や登録されたURLの変更を行えます。
+URLの「追加」は、URLが選択されていない状態のみ利用可能です。
+「URL一覧」に登録されているURLをクリックすると
+「追加」が「変更」に変わり、「削除」と「クリア」ボタンが使用可能となります。
+「削除」ボタンは削除したいURLを選択し、ボタンを押すと「URL一覧｝から選択されたURLを削除できます。
+「クリア」ボタンは、URLを選択した状態で使用すると、「URL」の中身が空になります。
+「Cancel」ボタンを押すと、変更点を破棄し、ダイアログを閉じます。
+※「削除」と「クリア」ボタンはURLを選択していない段階では使用はできません
+※プロダクトキーの入力をし制限解除を行っていない場合、追加することができるURLは三つまでです
+</value>
+  </data>
 </root>

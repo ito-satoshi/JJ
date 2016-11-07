@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.9\lib\net45\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +50,83 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="DialogURL.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="DialogURL.Designer.cs">
+      <DependentUpon>DialogURL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpヘルプ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helpヘルプ.Designer.cs">
+      <DependentUpon>Helpヘルプ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeepOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeepOut.Designer.cs">
+      <DependentUpon>KeepOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Time.Designer.cs">
+      <DependentUpon>Time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="URLヘルプ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="URLヘルプ.Designer.cs">
+      <DependentUpon>URLヘルプ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="再起動ヘルプ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="再起動ヘルプ.Designer.cs">
+      <DependentUpon>再起動ヘルプ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="取得間隔ヘルプ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="取得間隔ヘルプ.Designer.cs">
+      <DependentUpon>取得間隔ヘルプ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="検索ヘルプ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="検索ヘルプ.Designer.cs">
+      <DependentUpon>検索ヘルプ.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DialogURL.resx">
+      <DependentUpon>DialogURL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helpヘルプ.resx">
+      <DependentUpon>Helpヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeepOut.resx">
+      <DependentUpon>KeepOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +136,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Time.resx">
+      <DependentUpon>Time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="URLヘルプ.resx">
+      <DependentUpon>URLヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="再起動ヘルプ.resx">
+      <DependentUpon>再起動ヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="取得間隔ヘルプ.resx">
+      <DependentUpon>取得間隔ヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="検索ヘルプ.resx">
+      <DependentUpon>検索ヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
