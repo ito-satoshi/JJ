@@ -30,14 +30,26 @@ namespace 自動徘徊
 
         private void main_Load(object sender, EventArgs e)
         {
-                this.textBoxes = new TextBox[]
-                {this.textBox1, this.textBox2, this.textBox3, this.textBox4, this.textBox5, this.textBox6, this.textBox7, this.textBox8, this.textBox9};
-                con.Open();
+            AutoScroll = true;
+            textBoxes = new TextBox[]
+              {textBox1, textBox2, textBox3, textBox4, textBox5, textBox6, textBox7, textBox8,
+                textBox9, textBox10, textBox11, textBox12, textBox13, textBox14, textBox15};
+            con.Open();
             var command = new MySqlCommand("select acquisition_date, url, main_text,alreadyread_flag from news_info;", con);
             var reader = command.ExecuteReader();
-            while (reader.Read())
+            while (reader.Read() && j != 15)
             {
-                textBoxes[j].Text = $"{reader["acquisition_date"]}{reader["alreadyread_flag"]} \r\n{reader["url"]} \r\n{reader["main_text"]}";
+                textBoxes[j].Text = Convert.ToDateTime(reader["acquisition_date"]).ToString("yyyy/MM/dd");    //日付
+                if (Convert.ToBoolean(reader["alreadyread_flag"]) == true)                                    //既読未読
+                {
+                    textBoxes[j].Text += "\t 既読\r\n";
+                }
+                else
+                {
+                    textBoxes[j].Text += "\t 未読\r\n";
+                }
+                textBoxes[j].Text += $"{reader["url"]}\r\n";                                                 //URL
+                textBoxes[j].Text += $"\r\n{reader["main_text"]}";                                           //本文
                 j += 1;
             }
         }

@@ -52,6 +52,12 @@
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.textBox15 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // cmdOpenDlg1
@@ -280,8 +286,7 @@
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(39, 654);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox7.Location = new System.Drawing.Point(39, 668);
             this.textBox7.Multiline = true;
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
@@ -290,8 +295,7 @@
             // 
             // textBox8
             // 
-            this.textBox8.Location = new System.Drawing.Point(505, 654);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox8.Location = new System.Drawing.Point(505, 668);
             this.textBox8.Multiline = true;
             this.textBox8.Name = "textBox8";
             this.textBox8.ReadOnly = true;
@@ -300,19 +304,78 @@
             // 
             // textBox9
             // 
-            this.textBox9.Location = new System.Drawing.Point(972, 654);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox9.Location = new System.Drawing.Point(972, 668);
             this.textBox9.Multiline = true;
             this.textBox9.Name = "textBox9";
             this.textBox9.ReadOnly = true;
             this.textBox9.Size = new System.Drawing.Size(396, 149);
             this.textBox9.TabIndex = 23;
             // 
+            // textBox10
+            // 
+            this.textBox10.Location = new System.Drawing.Point(39, 877);
+            this.textBox10.Multiline = true;
+            this.textBox10.Name = "textBox10";
+            this.textBox10.ReadOnly = true;
+            this.textBox10.Size = new System.Drawing.Size(395, 149);
+            this.textBox10.TabIndex = 24;
+            // 
+            // textBox11
+            // 
+            this.textBox11.Location = new System.Drawing.Point(505, 877);
+            this.textBox11.Multiline = true;
+            this.textBox11.Name = "textBox11";
+            this.textBox11.ReadOnly = true;
+            this.textBox11.Size = new System.Drawing.Size(395, 149);
+            this.textBox11.TabIndex = 25;
+            // 
+            // textBox12
+            // 
+            this.textBox12.Location = new System.Drawing.Point(972, 877);
+            this.textBox12.Multiline = true;
+            this.textBox12.Name = "textBox12";
+            this.textBox12.ReadOnly = true;
+            this.textBox12.Size = new System.Drawing.Size(396, 149);
+            this.textBox12.TabIndex = 26;
+            // 
+            // textBox13
+            // 
+            this.textBox13.Location = new System.Drawing.Point(39, 1070);
+            this.textBox13.Multiline = true;
+            this.textBox13.Name = "textBox13";
+            this.textBox13.ReadOnly = true;
+            this.textBox13.Size = new System.Drawing.Size(395, 149);
+            this.textBox13.TabIndex = 27;
+            // 
+            // textBox14
+            // 
+            this.textBox14.Location = new System.Drawing.Point(505, 1070);
+            this.textBox14.Multiline = true;
+            this.textBox14.Name = "textBox14";
+            this.textBox14.ReadOnly = true;
+            this.textBox14.Size = new System.Drawing.Size(395, 149);
+            this.textBox14.TabIndex = 28;
+            // 
+            // textBox15
+            // 
+            this.textBox15.Location = new System.Drawing.Point(972, 1070);
+            this.textBox15.Multiline = true;
+            this.textBox15.Name = "textBox15";
+            this.textBox15.ReadOnly = true;
+            this.textBox15.Size = new System.Drawing.Size(396, 149);
+            this.textBox15.TabIndex = 29;
+            // 
             // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1518, 857);
+            this.ClientSize = new System.Drawing.Size(1518, 1238);
+            this.Controls.Add(this.textBox15);
+            this.Controls.Add(this.textBox14);
+            this.Controls.Add(this.textBox13);
+            this.Controls.Add(this.textBox12);
+            this.Controls.Add(this.textBox11);
+            this.Controls.Add(this.textBox10);
             this.Controls.Add(this.textBox9);
             this.Controls.Add(this.textBox8);
             this.Controls.Add(this.textBox7);
@@ -372,6 +435,12 @@
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.TextBox textBox13;
+        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox textBox15;
     }
 }
 
