@@ -59,3 +59,107 @@ C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト\自動�
 C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
 C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
 C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.pdb
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\bin\Debug\MySql.Data.dll
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csprojResolveAssemblyReference.cache
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.main.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Properties.Resources.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+G:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+D:\Projects\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+D:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+D:\Projects\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+G:\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+G:\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe
+G:\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.pdb
+G:\プロジェクト\自動徘徊\自動徘徊\bin\Debug\MySql.Data.dll
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csprojResolveAssemblyReference.cache
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.main.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Properties.Resources.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+G:\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.pdb
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\MySql.Data.dll
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csprojResolveAssemblyReference.cache
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.main.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Properties.Resources.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+C:\Users\satoshi\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\自動徘徊.pdb
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\bin\Debug\MySql.Data.dll
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csprojResolveAssemblyReference.cache
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.main.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Properties.Resources.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+C:\Users\user02\Desktop\プロジェクト\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\bin\Debug\自動徘徊.pdb
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\bin\Debug\MySql.Data.dll
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.main.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Properties.Resources.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.詳細画面.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csproj.GenerateResource.Cache
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+C:\Users\user02\Documents\Visual Studio 2015\Projects\プロジェクト(提出用)\自動徘徊\自動徘徊\obj\Debug\自動徘徊.csprojResolveAssemblyReference.cache

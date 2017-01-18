@@ -39,6 +39,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -112,6 +113,12 @@
     <Compile Include="検索ヘルプ.Designer.cs">
       <DependentUpon>検索ヘルプ.cs</DependentUpon>
     </Compile>
+    <Compile Include="詳細画面.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="詳細画面.Designer.cs">
+      <DependentUpon>詳細画面.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="DialogURL.resx">
       <DependentUpon>DialogURL.cs</DependentUpon>
     </EmbeddedResource>
@@ -150,6 +157,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="検索ヘルプ.resx">
       <DependentUpon>検索ヘルプ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="詳細画面.resx">
+      <DependentUpon>詳細画面.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config">
       <SubType>Designer</SubType>
