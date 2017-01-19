@@ -94,8 +94,6 @@ namespace 自動徘徊
 
         private void cmdOpenDlg4_Click(object sender, EventArgs e)
         {
-            //if (dlg.ShowDialog() == DialogResult.OK)
-            //   limit_flag = true;
             KeepOut dlg = new KeepOut();
             DialogResult dr = dlg.ShowDialog(this);
             if (dr == DialogResult.OK)

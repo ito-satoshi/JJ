@@ -34,8 +34,8 @@ namespace 自動徘徊
             else
             {
                 ///((main)Owner).limit_flag = false;
-                MessageBox.Show("入力されたプロダクトキーは合っています",
-                   "おしい！まだこの機能は実装されてないよ！",
+                MessageBox.Show("制限解除されました。素敵な徘徊ライフをお楽しみください",
+                   "制限解除しました",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Exclamation);
                 DialogResult = DialogResult.OK;
@@ -53,8 +53,6 @@ namespace 自動徘徊
         private void KeepOut_Load(object sender, EventArgs e)
         {
             button1.Enabled = false;
-            
-            //listPKey = ((main)Owner).IsContainPKey();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -88,7 +86,6 @@ namespace 自動徘徊
             button1.Enabled = true;
 
         }
-        //public string dsds();
 
     }
 }
