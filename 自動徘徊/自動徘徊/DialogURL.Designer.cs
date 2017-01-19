@@ -28,23 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.URL一覧 = new System.Windows.Forms.ListBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.追加 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
-            // 
-            // URL一覧
-            // 
-            this.URL一覧.FormattingEnabled = true;
-            this.URL一覧.ItemHeight = 18;
-            this.URL一覧.Location = new System.Drawing.Point(120, 146);
-            this.URL一覧.Name = "URL一覧";
-            this.URL一覧.Size = new System.Drawing.Size(705, 346);
-            this.URL一覧.TabIndex = 0;
-            this.URL一覧.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // textBox1
             // 
@@ -94,17 +84,27 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 18;
+            this.listBox1.Location = new System.Drawing.Point(120, 129);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(705, 382);
+            this.listBox1.TabIndex = 25;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged_1);
+            // 
             // DialogURL
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1048, 600);
+            this.ClientSize = new System.Drawing.Size(1024, 600);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.追加);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.URL一覧);
             this.Name = "DialogURL";
             this.Text = "URL";
             this.Load += new System.EventHandler(this.DialogURL_Load);
@@ -114,12 +114,11 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.ListBox URL一覧;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button 追加;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }

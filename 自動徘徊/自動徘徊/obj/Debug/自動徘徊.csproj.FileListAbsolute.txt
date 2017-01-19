@@ -43,3 +43,12 @@ C:\Users\user02\Documents\新しいフォルダー\自動徘徊\自動徘徊\obj
 C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\bin\Debug\自動徘徊.exe.config
 C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.exe
 C:\Users\user02\Desktop\新しいフォルダー\自動徘徊\自動徘徊\obj\Debug\自動徘徊.pdb
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.DialogURL.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Help.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Helpヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.KeepOut.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.Time.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.URLヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.再起動ヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.取得間隔ヘルプ.resources
+C:\Users\user02\Documents\Visual Studio 2015\Projects\自動徘徊\自動徘徊\obj\Debug\自動徘徊.検索ヘルプ.resources

@@ -62,9 +62,10 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("MS UI Gothic", 12F);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "検索ヘルプ";
             this.Text = "検索ヘルプ";
+            this.Load += new System.EventHandler(this.検索ヘルプ_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

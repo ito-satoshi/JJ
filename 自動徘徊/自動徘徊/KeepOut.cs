@@ -24,6 +24,24 @@ namespace 自動徘徊
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (((main)Owner).IsContainPKey(textBox1.Text + textBox2.Text + textBox3.Text + textBox4.Text + textBox5.Text) != true)
+            {
+                MessageBox.Show("入力されたプロダクトキーは不正です。深呼吸をして打ち直せ",
+                   "エラー",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error);
+            }
+            else
+            {
+                ///((main)Owner).limit_flag = false;
+                MessageBox.Show("入力されたプロダクトキーは合っています",
+                   "おしい！まだこの機能は実装されてないよ！",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Exclamation);
+                DialogResult = DialogResult.OK;
+                Close();
+                
+            }
 
         }
 
@@ -35,6 +53,8 @@ namespace 自動徘徊
         private void KeepOut_Load(object sender, EventArgs e)
         {
             button1.Enabled = false;
+            
+            //listPKey = ((main)Owner).IsContainPKey();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -65,6 +85,10 @@ namespace 自動徘徊
         {
             textBox5.MaxLength = 5;
             textBox5.CharacterCasing = CharacterCasing.Upper;
+            button1.Enabled = true;
+
         }
+        //public string dsds();
+
     }
 }

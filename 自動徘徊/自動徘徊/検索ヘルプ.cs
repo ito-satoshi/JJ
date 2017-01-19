@@ -21,5 +21,10 @@ namespace 自動徘徊
         {
             Close();
         }
+
+        private void 検索ヘルプ_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
